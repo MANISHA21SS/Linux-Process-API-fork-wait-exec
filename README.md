@@ -60,7 +60,7 @@ int main(void)
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 ![image](https://github.com/23004513/Linux-Process-API-fork-wait-exec/assets/138973069/009cba3a-1c16-4dcd-bd26-80d985295ca6)
