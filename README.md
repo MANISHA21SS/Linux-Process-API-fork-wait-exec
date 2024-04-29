@@ -109,7 +109,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/23004513/Linux-Process-API-fork-wait-exec/assets/138973069/5c9b7016-a976-48a0-bab0-e80c4a5e3849)
 
@@ -172,7 +172,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/23004513/Linux-Process-API-fork-wait-exec/assets/138973069/847f0fd1-4b82-41ee-908d-cd37e9c796d6)
 
